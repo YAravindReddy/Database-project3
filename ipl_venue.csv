@@ -1,0 +1,60 @@
+city,date,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,venue
+Hyderabad,5/4/2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,35,0,"Rajiv Gandhi International Stadium, Uppal"
+Pune,6/4/2017,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,7,Maharashtra Cricket Association Stadium
+Rajkot,7/4/2017,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,10,Saurashtra Cricket Association Stadium
+Indore,8/4/2017,Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,6,Holkar Cricket Stadium
+Bangalore,8/4/2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,15,0,M Chinnaswamy Stadium
+Hyderabad,9/4/2017,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,9,"Rajiv Gandhi International Stadium, Uppal"
+Mumbai,9/4/2017,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,4,Wankhede Stadium
+Indore,10/4/2017,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,0,8,Holkar Cricket Stadium
+Pune,11/4/2017,Delhi Daredevils,Rising Pune Supergiant,Rising Pune Supergiant,field,Delhi Daredevils,97,0,Maharashtra Cricket Association Stadium
+Mumbai,12/4/2017,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,4,Wankhede Stadium
+Kolkata,13-04-2017,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,8,Eden Gardens
+Bangalore,14-04-2017,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,4,M Chinnaswamy Stadium
+Rajkot,14-04-2017,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,7,Saurashtra Cricket Association Stadium
+Kolkata,15-04-2017,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,17,0,Eden Gardens
+Delhi,15-04-2017,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Delhi Daredevils,51,0,Feroz Shah Kotla
+Mumbai,16-04-2017,Gujarat Lions,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,6,Wankhede Stadium
+Bangalore,16-04-2017,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,27,0,M Chinnaswamy Stadium
+Delhi,17-04-2017,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,0,4,Feroz Shah Kotla
+Hyderabad,17-04-2017,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,5,0,"Rajiv Gandhi International Stadium, Uppal"
+Rajkot,18-04-2017,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,21,0,Saurashtra Cricket Association Stadium
+Hyderabad,19-04-2017,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,15,0,"Rajiv Gandhi International Stadium, Uppal"
+Indore,20-04-2017,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,8,Holkar Cricket Stadium
+Kolkata,21-04-2017,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,4,Eden Gardens
+Mumbai,22-04-2017,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,14,0,Wankhede Stadium
+Pune,22-04-2017,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,6,Maharashtra Cricket Association Stadium
+Rajkot,23-04-2017,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Kings XI Punjab,26,0,Saurashtra Cricket Association Stadium
+Kolkata,23-04-2017,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,82,0,Eden Gardens
+Mumbai,24-04-2017,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,Rising Pune Supergiant,3,0,Wankhede Stadium
+Pune,26-04-2017,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,Maharashtra Cricket Association Stadium
+Bangalore,27-04-2017,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,7,M Chinnaswamy Stadium
+Kolkata,28-04-2017,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,Eden Gardens
+Chandigarh,28-04-2017,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,26,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+Pune,29-04-2017,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,61,0,Maharashtra Cricket Association Stadium
+Rajkot,29-04-2017,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,Mumbai Indians,0,0,Saurashtra Cricket Association Stadium
+Chandigarh,30-04-2017,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,0,10,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+Hyderabad,30-04-2017,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,48,0,"Rajiv Gandhi International Stadium, Uppal"
+Mumbai,1/5/2017,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,0,5,Wankhede Stadium
+Pune,1/5/2017,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,5,Maharashtra Cricket Association Stadium
+Delhi,2/5/2017,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,6,Feroz Shah Kotla
+Kolkata,3/5/2017,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,4,Eden Gardens
+Delhi,4/5/2017,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,7,Feroz Shah Kotla
+Bangalore,5/5/2017,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,19,0,M Chinnaswamy Stadium
+Hyderabad,6/5/2017,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rising Pune Supergiant,12,0,"Rajiv Gandhi International Stadium, Uppal"
+Delhi,6/5/2017,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,146,0,Feroz Shah Kotla
+Bangalore,7/5/2017,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,6,M Chinnaswamy Stadium
+Chandigarh,7/5/2017,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,0,6,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+Hyderabad,8/5/2017,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,0,7,"Rajiv Gandhi International Stadium, Uppal"
+Chandigarh,9/5/2017,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,14,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+Kanpur,10/5/2017,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,0,2,Green Park
+Mumbai,11/5/2017,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,7,0,Wankhede Stadium
+Delhi,12/5/2017,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,Delhi Daredevils,7,0,Feroz Shah Kotla
+Kanpur,13-05-2017,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Green Park
+Kolkata,13-05-2017,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,9,0,Eden Gardens
+Pune,14-05-2017,Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,0,9,Maharashtra Cricket Association Stadium
+Delhi,14-05-2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,10,0,Feroz Shah Kotla
+Mumbai,16-05-2017,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,field,Rising Pune Supergiant,20,0,Wankhede Stadium
+Bangalore,17-05-2017,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,M Chinnaswamy Stadium
+Bangalore,19-05-2017,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,6,M Chinnaswamy Stadium
+Hyderabad,21-05-2017,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,Mumbai Indians,1,0,"Rajiv Gandhi International Stadium, Uppal"
